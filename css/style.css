@@ -16,9 +16,10 @@ img {
     
 }
 
-a {
+.links {
     color: green;
     margin: 15px;
     display: inline;
     text-align: center;
 }
+
